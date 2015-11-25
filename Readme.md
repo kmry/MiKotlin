@@ -36,7 +36,8 @@ Many ideas on how this project is organized were taken from [Clean Contacts](htt
 #License
     Copyright 2015 Yoshihiro KIMURA
 
-    Licensed under the Apache License, Version 2.0 (the "License");
+    Licensed under the Apache License, Version 2.0.
+    See below for more detailed conditions:
 
 
     Original Copyright 2015 Antonio Leiva
