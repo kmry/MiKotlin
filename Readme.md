@@ -34,8 +34,12 @@ Two plugins for Android Studio are also required: `Kotlin` and `Kotlin Extension
 Many ideas on how this project is organized were taken from [Clean Contacts](https://github.com/PaNaVTEC/Clean-Contacts/blob/master/Readme.md) project, by [PaNaVTEC](https://github.com/PaNaVTEC). There are some slight differences, but reading [How to start section](https://github.com/PaNaVTEC/Clean-Contacts/blob/master/Readme.md#how-to-start-with-this-repository) will be helpful.
 
 #License
+    Copyright 2015 Yoshihiro KIMURA
 
-    Copyright 2015 Antonio Leiva
+    Licensed under the Apache License, Version 2.0 (the "License");
+
+
+    Original Copyright 2015 Antonio Leiva
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
