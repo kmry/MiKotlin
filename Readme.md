@@ -1,4 +1,4 @@
-#Bandhook Kotlin
+#MiKotlin forked from Bandhook Kotlin
 
 This project is a small replica of the app I developed some time ago. [Bandhook can still be found on Play Store](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook)
 
