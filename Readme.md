@@ -1,6 +1,6 @@
-#MiKotlin forked from Bandhook Kotlin
+#MiKotlin ~ A Cross Platform Development Trial.
 
-This project is a small replica of the app I developed some time ago. [Bandhook can still be found on Play Store](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook)
+This project is forked from Bandhook Kotlin, a small replica of the app I developed some time ago. [Bandhook can still be found on Play Store](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook)
 
 At the moment it will only connect to LastFm and retrieve some music bands. It will let navigate to the artist detail. This is what you´ll get:
 
