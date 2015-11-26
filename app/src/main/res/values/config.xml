@@ -17,4 +17,7 @@
 
 <resources>
     <integer name="cache_duration">86400</integer>
+    <!--Mikotlin's key-->
+    <string name="last_fm_api_key">yourkey</string>
+
 </resources>

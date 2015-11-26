@@ -36,7 +36,7 @@ allprojects {
         androidMinSdkVersion = 16
         androidTargetSdkVersion = 23
         androidCompileSdkVersion = 23
-        androidApplicationId = "com.antonioleiva.bandhookkotlin"
+        androidApplicationId = "com.kmry.mikotlin"
         androidVersionCode = 1
         androidVersionName = "0.1"
         supportVersion = "23.1.0"

@@ -16,20 +16,20 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.antonioleiva.bandhookkotlin">
+          package="com.antonioleiva.mikotlin">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
-        android:name=".App"
+        android:name="com.antonioleiva.mikotlin.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ui.screens.main.MainActivity"
+            android:name="com.antonioleiva.mikotlin.ui.screens.main.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -39,8 +39,8 @@
         </activity>
 
         <activity
-            android:name=".ui.screens.detail.DetailActivity"
-            android:parentActivityName=".ui.screens.main.MainActivity"/>
+            android:name="com.antonioleiva.mikotlin.ui.screens.detail.DetailActivity"
+            android:parentActivityName="com.antonioleiva.mikotlin.ui.screens.main.MainActivity"/>
     </application>
 
 </manifest>

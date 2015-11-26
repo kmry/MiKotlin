@@ -18,8 +18,8 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">#ef6c00</item> 
-        <item name="colorPrimaryDark">#e65100</item> 
+        <item name="colorPrimary">#0024ef</item> 
+        <item name="colorPrimaryDark">#090755</item> 
         <item name="colorAccent">?attr/colorPrimary</item>
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
         <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
